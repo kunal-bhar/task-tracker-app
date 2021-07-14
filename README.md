@@ -1,5 +1,5 @@
 # task-tracker-app
-A task-tracking web application that allows users to document their chores while also allowing easy priority-wise viewing.
+An organisational web application that allows users to document their chores while also allowing easy priority-wise viewing.
 
 Simple UI with added functionality to pre-set reminders. Also involves integration with mock back-end that collects remote data using JSON and displays it to the user.
 
