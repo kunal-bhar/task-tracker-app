@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Visit to the Movies",
+      "day": "July 25th at 9:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Machine Learning Webinar",
+      "day": "Aug 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Football with the Boys",
+      "day": "Tomorrow at 7pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
