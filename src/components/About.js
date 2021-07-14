@@ -6,7 +6,7 @@ const About = () => {
       <p>Task Tracker App allows users to document their chores while also allowing easy priority-wise viewing. Tip: Double-click a task to toggle its reminder status.</p>
       <p>
         Happy Organising!    Developed by  
-      <a href="https://resume.io/r/e8BnJSnk9" target="_blank">
+      <a href="https://kunal-bhar.github.io/portfolio-site/dist/" target="_blank">
         <span className='dev__name'> Kunal Bhargava</span> 
         </a>
         </p>
